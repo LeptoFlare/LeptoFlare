@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](https://raw.githubusercontent.com/LeptoFlare/LeptoFlare/master/banner.png)
 
 <!--
 **LeptoFlare/LeptoFlare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
